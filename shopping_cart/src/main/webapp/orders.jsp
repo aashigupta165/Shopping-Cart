@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Insert title here</title>
+<title>Your Orders</title>
 <%@include file="includes/head.jsp"%>
 </head>
 <body>
